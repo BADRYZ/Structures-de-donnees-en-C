@@ -1,0 +1,26 @@
+case 4 ://infixé
+			{
+					printf("1-pour afficher arbre genealogique / 2-pour afficher arbre arithmétique");
+				int cin;scanf("%d",&cin);
+				switch(cin){
+					case 1:
+						infixe(rgen,afficher);
+					case 2:
+						infixe(rari,afficher);
+				}
+						
+				
+			}
+				break;
+				}
+				
+
+
+
+	char* samir=(char*)malloc(sizeof(char));
+	char* kamal=(char*)malloc(sizeof(char));
+	char* yassine=(char*)malloc(sizeof(char));
+	char* hind=(char*)malloc(sizeof(char));
+	char* yasmine=(char*)malloc(sizeof(char));
+	char* sarah=(char*)malloc(sizeof(char));
+	char* karim=(char*)malloc(sizeof(char));
